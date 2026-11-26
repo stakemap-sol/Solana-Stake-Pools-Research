@@ -1,5 +1,5 @@
 {
-  "latest_data_url": "https://raw.githubusercontent.com/stakemap-sol/Solana-Stake-Pools-Research/main/stakepool-data/mainnet-beta/1097/mainnet-beta-analysis-20261126-170646.json",
+  "latest_data_url": "https://raw.githubusercontent.com/stakemap-sol/Solana-Stake-Pools-Research/main/stakepool-data/mainnet-beta/1097/mainnet-beta-analysis-20261126-185016.json",
   "historic_data_urls": [
     "https://raw.githubusercontent.com/SOFZP/Solana-Stake-Pools-Research/main/stakepool-data/mainnet-beta/820/mainnet-beta-analysis-20250721-010300.json",
     "https://raw.githubusercontent.com/SOFZP/Solana-Stake-Pools-Research/main/stakepool-data/mainnet-beta/821/mainnet-beta-analysis-20250722-224038.json",
@@ -278,7 +278,7 @@
     "https://raw.githubusercontent.com/stakemap-sol/Solana-Stake-Pools-Research/main/stakepool-data/mainnet-beta/1094/mainnet-beta-analysis-20261123-200750.json",
     "https://raw.githubusercontent.com/stakemap-sol/Solana-Stake-Pools-Research/main/stakepool-data/mainnet-beta/1095/mainnet-beta-analysis-20261124-215649.json",
     "https://raw.githubusercontent.com/stakemap-sol/Solana-Stake-Pools-Research/main/stakepool-data/mainnet-beta/1096/mainnet-beta-analysis-20261125-234406.json",
-    "https://raw.githubusercontent.com/stakemap-sol/Solana-Stake-Pools-Research/main/stakepool-data/mainnet-beta/1097/mainnet-beta-analysis-20261126-170646.json"
+    "https://raw.githubusercontent.com/stakemap-sol/Solana-Stake-Pools-Research/main/stakepool-data/mainnet-beta/1097/mainnet-beta-analysis-20261126-185016.json"
   ],
   "aggregated_history_url": "https://raw.githubusercontent.com/stakemap-sol/Solana-Stake-Pools-Research/main/stakepool-data/mainnet-beta/aggregated-history.json",
   "live_data_url": "https://data.stakemap.info/v1/mainnet-beta/live.json",
